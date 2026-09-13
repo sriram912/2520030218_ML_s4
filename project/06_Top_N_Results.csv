@@ -1,0 +1,4 @@
+Metric,Value
+Precision@10,0.006000000000000001
+Recall@10,0.06
+Hit Rate@10,0.06
